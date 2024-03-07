@@ -1,0 +1,14 @@
+.main-content{
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+.color-container{
+    max-width: 80%;
+    width: 500px;
+    height: 50px;
+    padding: 1rem;
+}

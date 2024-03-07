@@ -1,1 +1,43 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'submodulo/atoms.css';
+
+.background-green50 {
+    background-color: var(--green50);
+  }
+  
+  .background-green100 {
+    background-color: var(--green100);
+  }
+  
+  .background-green200 {
+    background-color: var(--green200);
+  }
+  
+  .background-green300 {
+    background-color: var(--green300);
+  }
+  
+  .background-green400 {
+    background-color: var(--green400);
+  }
+  
+  .background-green500 {
+    background-color: var(--green500);
+  }
+  
+  .background-green600 {
+    background-color: var(--green600);
+  }
+  
+  .background-green700 {
+    background-color: var(--green700);
+  }
+  
+  .background-green800 {
+    background-color: var(--green800);
+  }
+  
+  .background-green900 {
+    background-color: var(--green900);
+  }
+  
